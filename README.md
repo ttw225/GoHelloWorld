@@ -1,1 +1,3 @@
 GoHelloWorld
+Hello
+hi
